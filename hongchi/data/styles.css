@@ -1,0 +1,157 @@
+﻿.ax_default {
+  font-family:'ArialMT', 'Arial';
+  font-weight:400;
+  font-style:normal;
+  font-size:13px;
+  color:#333333;
+  text-align:center;
+  line-height:normal;
+}
+._图片 {
+}
+._一级标题 {
+  font-family:'ArialMT', 'Arial';
+  font-weight:bold;
+  font-style:normal;
+  font-size:32px;
+  text-align:left;
+}
+._二级标题 {
+  font-family:'ArialMT', 'Arial';
+  font-weight:bold;
+  font-style:normal;
+  font-size:24px;
+  text-align:left;
+}
+._三级标题 {
+  font-family:'ArialMT', 'Arial';
+  font-weight:bold;
+  font-style:normal;
+  font-size:18px;
+  text-align:left;
+}
+._四级标题 {
+  font-family:'ArialMT', 'Arial';
+  font-weight:bold;
+  font-style:normal;
+  font-size:14px;
+  text-align:left;
+}
+._五级标题 {
+  font-family:'ArialMT', 'Arial';
+  font-weight:bold;
+  font-style:normal;
+  text-align:left;
+}
+._六级标题 {
+  font-family:'ArialMT', 'Arial';
+  font-weight:bold;
+  font-style:normal;
+  font-size:10px;
+  text-align:left;
+}
+._文本段落 {
+  text-align:left;
+}
+._自由编辑 {
+}
+._默认样式 {
+}
+.placeholder {
+}
+.box_1 {
+}
+.box_2 {
+}
+.image {
+}
+._形状 {
+}
+.text_field {
+  color:#000000;
+  text-align:left;
+}
+.text_area {
+  color:#000000;
+  text-align:left;
+}
+.list_box {
+  color:#000000;
+  text-align:left;
+}
+.checkbox {
+  text-align:left;
+}
+.radio_button {
+  text-align:left;
+}
+.primary_button {
+  color:#FFFFFF;
+}
+.ellipse {
+}
+.box_3 {
+}
+.line {
+}
+.arrow {
+}
+.icon {
+}
+.shape {
+}
+.image1 {
+  color:#000000;
+}
+._形状1 {
+}
+.label {
+  font-size:14px;
+  text-align:left;
+}
+.button {
+}
+._形状2 {
+}
+._文本框 {
+  color:#000000;
+  text-align:left;
+}
+._图片_ {
+  color:#000000;
+}
+._鼠标按下文本链接时 {
+}
+._文本链接 {
+  color:#0000FF;
+}
+._图片_1 {
+}
+.connector {
+}
+.marker {
+  color:#FFFFFF;
+}
+.flow_shape {
+}
+.link_button {
+  color:#169BD5;
+}
+._鼠标悬停文本链接时 {
+}
+.box_11 {
+}
+.box_12 {
+  font-family:'微软雅黑';
+  font-weight:400;
+  font-style:normal;
+  color:#FFFFFF;
+}
+.paragraph {
+  text-align:left;
+}
+.html_button {
+  text-align:center;
+}
+.table_cell {
+}
